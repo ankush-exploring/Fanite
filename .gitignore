@@ -1,0 +1,7 @@
+# docs/
+venv/
+# src/__pycache__/
+# images/
+data/
+.env
+# notebooks/RAG_Pipeline.ipynb
